@@ -1,5 +1,9 @@
-require "musictheory/version"
+require_relative "musictheory/version"
 
 module Musictheory
-  # Your code goes here...
+  class Key
+    def say_hello
+      puts "Hello world!"
+    end
+  end
 end
