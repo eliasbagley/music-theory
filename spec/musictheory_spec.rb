@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Musictheory do
+describe MusicTheory do
   it 'has a version number' do
     expect(Musictheory::VERSION).not_to be nil
   end

@@ -5,7 +5,7 @@ require 'musictheory/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "musictheory"
-  spec.version       = Musictheory::VERSION
+  spec.version       = MusicTheory::VERSION
   spec.authors       = ["Elias Bagley"]
   spec.email         = ["elias@rocketmade.com"]
 
